@@ -79,9 +79,3 @@
 
 1. fashion trending prediction with cross-validation, [fashion-forecasting.ipynb](misc/fashion-forecasting.ipynb)
 2. Bitcoin analysis with LSTM prediction, [bitcoin-analysis-lstm.ipynb](misc/bitcoin-analysis-lstm.ipynb)
-
-<img src="simulation/multivariate-drift-monte-carlo.png" width="70%" align="">
-
-5. Portfolio optimization
-
-<img src="simulation/portfolio-optimization.png" width="40%" align="">
