@@ -14,7 +14,7 @@
 
 ### Models
 
-#### [Deep-learning models](deep-learning)
+#### [Deep-learning models](deep_learning)
  1. LSTM
  2. LSTM Bidirectional
  3. LSTM 2-Path
